@@ -125,8 +125,8 @@ function App() {
 
         {noCount > 5 && (
           <div className="desperate-message">
-            <p>Udah {noCount} kali bilang gak mau! 😤</p>
-            <p>Lihat tuh tombol YES-nya udah kayak raksasa! 👹</p>
+            <p>Udah {noCount} kali nih sir!!!</p>
+            <p>YES AJA UDAAAHHHH!!!!!</p>
           </div>
         )}
       </div>
